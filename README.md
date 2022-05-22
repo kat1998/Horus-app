@@ -1,4 +1,4 @@
-# Venus
+# Horus
 
 A landing page template.
 
